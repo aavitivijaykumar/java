@@ -23,7 +23,7 @@ public class fibonacciSeries {
 		  
 		  n1=n2;    
 		  n2=n3;
-		  
+		  // hellooooooo
 		
 		  
 	
@@ -35,7 +35,8 @@ public class fibonacciSeries {
 		  
 		
 			
-			int i=10 + + 11 - - 12 + + 13 - - 14 + + 15;
+			int i=10   + + 11 - - 12 + + 13 - - 14 + + 15;
+			
 			System.out.println(i);
 	}
 
